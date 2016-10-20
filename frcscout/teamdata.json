@@ -1,0 +1,16 @@
+{
+    "teams" : [
+                  {
+                  "teamName" : "Blue Crew",
+                  "teamNumber" : "6153"
+                  },
+                  {
+                  "teamName" : "Infinite Loop",
+                  "teamNumber" : "2648"
+                  },
+                  {
+                  "teamName" : "Orange Chaos",
+                  "teamNumber" : "4564"
+                  }
+                  ]
+}
